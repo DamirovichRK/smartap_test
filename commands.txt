@@ -1,0 +1,6 @@
+inventory
+audit
+install 7zip
+inventory
+reboot
+inventory
