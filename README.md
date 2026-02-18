@@ -29,7 +29,7 @@
 os-collector/
 
 ├── main.py  
-├── models.py  
+├── datacls_models.py  
 ├── interfaces.py  
 ├── dispatcher.py  
 ├── service_factory.py  
